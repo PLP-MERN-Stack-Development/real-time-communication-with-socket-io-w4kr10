@@ -228,7 +228,6 @@ The application has been tested for:
 
 ## 🌐 Deployment
 
-*(Add deployment instructions and URLs here if deployed)*
 
 ## 📚 Resources
 
