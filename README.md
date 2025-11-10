@@ -227,7 +227,7 @@ The application has been tested for:
 ![alt text](image-1.png)
 
 ## 🌐 Deployment
-
+https://sockiochat.netlify.app/
 
 ## 📚 Resources
 
